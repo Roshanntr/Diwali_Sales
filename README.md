@@ -1,5 +1,4 @@
-Analyze Diwali sales data to improve customer experience and sales.
-I performed a data analysis on the Diwali Sales. This data analysis explores customer purchasing behavior, identifying key demographics such as gender, age, and occupation that influence sales patterns.
+Performed a data analysis on the Diwali Sales. This data analysis explores customer purchasing behavior, identifying key demographics such as gender, age, and occupation that influence sales patterns.
 
 **Here are the questions I was interested in answering**
 1) Which age group contributes the most to overall sales, and how does their spending compare to other age groups?
