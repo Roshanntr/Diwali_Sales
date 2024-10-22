@@ -13,6 +13,7 @@ Used groupby() functions to calculate total sales for specific groups like gende
 3)Summarizing the key findings, such as target customer profiles and actionable business insights
 
 **Here are my key takeaways :**
+
 a) The age group 26-35 years contributes the most to overall sales, significantly outspending other age groups. Their spending is the highest across multiple product categories.
 b) Women spend more than men across most product categories, especially in areas like clothing, electronics, and food.
 c) Customers working in IT, Healthcare, and Aviation industries have the highest spending. These customers commonly purchase electronics, food, and clothing.
